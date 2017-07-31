@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="GUI.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="IP" Type="System.String" Scope="User">
+      <Value Profile="(Default)">192.168.0.103</Value>
+    </Setting>
+    <Setting Name="PORT" Type="System.String" Scope="User">
+      <Value Profile="(Default)">3306</Value>
+    </Setting>
+    <Setting Name="COM" Type="System.String" Scope="User">
+      <Value Profile="(Default)">COM3</Value>
+    </Setting>
+    <Setting Name="DBname" Type="System.String" Scope="User">
+      <Value Profile="(Default)">base</Value>
+    </Setting>
+    <Setting Name="DBuser" Type="System.String" Scope="User">
+      <Value Profile="(Default)">root</Value>
+    </Setting>
+    <Setting Name="DBpasswd" Type="System.String" Scope="User">
+      <Value Profile="(Default)">123</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
